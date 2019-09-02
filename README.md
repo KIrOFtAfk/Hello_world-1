@@ -1,3 +1,2 @@
 # Hello_world
-Just another repository
-практичне завдання №4
+практичне завдання 3
